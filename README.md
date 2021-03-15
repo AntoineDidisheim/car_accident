@@ -33,3 +33,5 @@ We produce a few descriptive statistics before turning to the primary analysis:
 
 ## Data
 On the 2021/03/15, the data could be downloaded on: https://www.kaggle.com/daveianhickey/2000-16-traffic-flow-england-scotland-wales
+
+Once the data is downloaded and uncompressed, one should either set it in a folder "data" or update the default path in: parameters.DataParams.dir = 'data/' to the data location.
