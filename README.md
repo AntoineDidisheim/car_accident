@@ -30,3 +30,6 @@ We produce a few descriptive statistics before turning to the primary analysis:
 1) *data_exploration.py*
 2) *train_models.py*
 3) *test_performances.py*
+
+## Data
+On the 2021/03/15, the data could be downloaded on: https://www.kaggle.com/daveianhickey/2000-16-traffic-flow-england-scotland-wales
